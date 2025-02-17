@@ -1,13 +1,26 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+ <img alt="YOUR-ALT-TEXT" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">>
+</picture>
 
-<!--
-**CaitlinAkkerman/CaitlinAkkerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+<!-- TO DO: add more details about me later -->
 
-- 😈 Hi everyone! My name is Caitlin and I have no idea what the heck I'm doing or where to even begin 😅
-  🖤 I am doing this completely on my own, well trying to anyways. There is just so much to learn, so I am TOTALLY open to any and all thoughts, suggestions, moral support...I'm here for all of it!
-  🤙 A little about me...I am a mom of 2. I live in Montana. I don't know what I want to be when I grow up. I am "self-taught" with this coding stuff, so please go easy on me 🫶
-  - 📫 How to reach me: Email: caitlinakkerman@icloud.com
-    Facebook: https://www.facebook.com/caitlincasebolt
--->
+Hi! I'm Caitlin! I am brand new to coding and development and completely self taught. I am open to any and all suggestions on where the heck to even begin!
+
+<details open>
+<summary>THINGS I ENJOY</summary>  
+
+  | Rank |THINGS I ENJOY |
+|-----:|---------------|
+|     1|Travelling     |
+|     2|My Kids        |
+|     3|Playing Pool   |
+
+</details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
